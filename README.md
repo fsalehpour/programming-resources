@@ -7,6 +7,10 @@ references for reading about programming and software engineering
 * [Cornell University - CS/ENGRD 211 Spring 2006](https://www.cs.cornell.edu/courses/cs211/2006sp/)
 * [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 
+### Abstraction
+
+* [Abstraction & Composition](https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6)
+
 
 ## PHP
 
