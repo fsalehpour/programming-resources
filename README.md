@@ -24,3 +24,7 @@ references for reading about programming and software engineering
 ## CSS
 
 * [Learn CSS](https://web.dev/learn/css)
+
+## Monorepo
+
+* [Monorepo tools](https://monorepo.tools)
