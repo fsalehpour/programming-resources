@@ -29,3 +29,13 @@ references for reading about programming and software engineering
 ## Monorepo
 
 * [Monorepo tools](https://monorepo.tools)
+
+# extras
+
+## programming fonts
+
+* [Nerd Fonts](https://www.nerdfonts.com)
+
+## terminal tools
+
+* [exa - a modern replacement for ls](https://the.exa.website)
