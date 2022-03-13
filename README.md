@@ -42,4 +42,4 @@ references for reading about programming and software engineering
 
 ## newsletters
 * [The World’s 21 Best Newsletters for Developers](https://blog.runcloud.io/best-newsletters-for-developers/#how-to-filter-newsletters-and-clean-up-your-inbox)
-* 
+
